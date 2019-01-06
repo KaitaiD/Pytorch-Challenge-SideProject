@@ -34,3 +34,4 @@ To me, only __'stars'__ and __'text'__ matter in the project as the input will b
 5. Define network init function
 6. Predict the test data
 
+So the project is done on my own laptop and I just uploaded the notebook that I used for this project. The repo only contains the notebook and there is no command line needed. The main purpose of the project is to build a text classification CNN to accurately predict the review score. I understand the format and structure of the notebook can be improved and I will continue to work on it after the course.
