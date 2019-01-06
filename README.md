@@ -33,3 +33,4 @@ To me, only __'stars'__ and __'text'__ matter in the project as the input will b
 4. Deine the training process
 5. Define network init function
 6. Predict the test data
+
