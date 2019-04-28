@@ -28,7 +28,7 @@ In the Pytorch Challenge course, RNN with embedding and hidden LSTM layers are p
 
 To me, only __'stars'__ and __'text'__ matter in the project as the input will be the review text and the output is the review star. Here are the steps to prepare data, train the model and test the result. The script can be found in the notebook.
 
-
+## Model structure
 1. Load the dataset from my local folder and transform the dataset to csv format and split the dataset
 
 2. Build vocabulary and load pre-trained language model 
