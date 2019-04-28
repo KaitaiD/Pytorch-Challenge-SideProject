@@ -1,4 +1,4 @@
-# Pytorch Challenge Side Project
+# Sentimental analysis using RNN
 
 ## Text Classification for Yelp review - A sentiment analysis
 
